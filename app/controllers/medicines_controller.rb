@@ -47,4 +47,5 @@ class MedicinesController < ApplicationController
 
   def medicine_params
     params.require(:medicine).permit(:product, :strength, :dosage_form, :approval_number, :approval_date, :category, :manufacturer)
+  end
 end
