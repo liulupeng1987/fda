@@ -1,0 +1,14 @@
+<h1> Add a new medicine </h1>
+
+<%= simple_form_for @medicine do |f| %>
+
+<%= f.input :product %>
+<%= f.input :strength %>
+<%= f.input :dosage_form %>
+<%= f.input :approval_number %>
+<%= f.input :approval_date %>
+<%= f.input :category %>
+<%= f.input :manufacturer %>
+
+  <%= f.submit "Submit" %>
+<% end %>

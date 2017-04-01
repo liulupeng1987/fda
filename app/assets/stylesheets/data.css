@@ -1,0 +1,71 @@
+<style type="text/css">
+
+p{font-family: "����", "Arial", "Times New Roman";color:#000000;font-size:9pt;text-decoration:none;letter-spacing:1pt;}
+text{font-family: "����", "Arial", "Times New Roman";color:#000000;font-size:9pt;text-decoration:none;letter-spacing:1pt;line-height:15pt;}
+td{font-size:12px;line-height:18px;}
+
+.Box1 {
+	border: 1px solid #7f9db9;
+	background-color: #ffffff;
+	font-family: "����";
+	font-size: 12px;
+	color: #000000;
+}
+.zs1{
+	font-family: "����", "Arial", "Times New Roman";
+	color:#ffffff;
+	font-size:9pt;
+	text-decoration:none;
+	font-weight: bold;
+	cursor:pointer;
+}
+.zs2{
+    font-family: "����", "Arial", "Times New Roman";
+	color:#ffffff;
+	font-size:9pt;
+	text-decoration:none;
+	font-weight: bold;
+}
+
+a{ color: #0045ad; text-decoration:none}
+a:visited{color:#003399; text-decoration:none}
+a:hover{color: #CC0000; text-decoration:underline}
+a:link{ color: #0045ad; text-decoration:none}
+
+
+.bigblack:visited {font-size:12px; color:#595959; text-decoration:none; font-weight:bolder}
+.bigblack:hover {font-size:12px; color: #cc0000; text-decoration:underline; font-weight:bolder}
+.bigblack:link {font-size:12px;  color: #0045ad; text-decoration:none; font-weight:bolder}
+
+
+.oneTd{border-bottom:1px #000000 solid; background-color:#659ACE;border-top:1px #ffffff solid;}
+.twoTd{border-bottom:1px #ADABAC solid;}
+
+.new_fontstyle{font-size:14px;text-align:center;color:0E44BA;font-weight: bold;padding-top:4px}
+.new_datafont1{font-size:14px;color:3a3a3a;line-height:150%}
+.new_datafont1 a{font-size:14px;color:3a3a3a;line-height:150%}
+.new_datafont1 a:visited {font-size:14px; color:#5d5d5d; text-decoration:none;}
+.new_datafont1 a:hover {font-size:14px; color: #cc0000; text-decoration:underline;}
+.new_datafont1 a:active{font-size:14px;COLOR: #ff9900;TEXT-DECORATION: none}
+.new_datafont1 a:link {font-size:14px; color: #3a3a3a; text-decoration:none;}
+
+.new_gray{font-size:14px;color:737373;}
+.new_fontblue12 {font-size: 12px;color: #003CA3;}
+.new_black12_02:link {COLOR: #003CA3; font-size:12px; TEXT-DECORATION: none;}
+.new_black12_02:visited {COLOR: #003CA3; font-size:12px; TEXT-DECORATION: none;}
+.new_black12_02:active {COLOR: #003CA3; font-size:12px; TEXT-DECORATION: none;}
+.new_black12_02:hover {COLOR: #CC0000; font-size:12px; TEXT-DECORATION: none;}
+
+.genmenu01{font-family:verdana; background:#cccccc;font-size:12px;padding-top:1px;padding-left:8px;padding-right:8px;border-bottom:0px solid #949494;text-align:center;color:#000000;white-space:nowrap;height:20;font-weight:bold;text-decoration:underline;}
+.genmenu01:hover{color:#ff0000;font-size:12px;text-transform: none;text-decoration: none;}
+.genmenu01:active{color:#000000;font-size:12px;text-transform: none;text-decoration: underline;}
+.genmenu01:link{color:#000000;font-size:12px;text-transform: none;text-decoration: underline;}
+.genmenu01:visited{color:#000000;font-size:12px;text-transform: none;text-decoration: underline;}
+
+
+.genmenu02:link {COLOR: #ffffff; font-size:12px; TEXT-DECORATION: underline; font-family:verdana; font-weight:bold;}
+.genmenu02:visited {COLOR: #ffffff; font-size:12px; TEXT-DECORATION: underline; font-family:verdana; font-weight:bold;}
+.genmenu02:active {COLOR: #ffffff; font-size:12px; TEXT-DECORATION: underline; font-family:verdana; font-weight:bold;}
+.genmenu02:hover {COLOR: #ff0000; font-size:12px; TEXT-DECORATION: underline; font-family:verdana; font-weight:bold;}
+
+

@@ -1,0 +1,18 @@
+<table class="table table-boldered">
+  <% @medicines.each do |medicine| %>
+  <tr>
+    <td>
+      <%= link_to(medicine.product, medicine_path(medicine)) %>
+    </td>
+    <td>
+      <%= medicine.strength %>
+    </td>
+    <td>
+      <%= medicine.dosage_form %>
+    </td>
+    <td>
+      <%= medicine.manufacturer %>
+    </td>
+  </tr>
+  <% end %>
+</table>
