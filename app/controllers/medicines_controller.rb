@@ -1,7 +1,7 @@
 class MedicinesController < ApplicationController
   before_action :authenticate_user!, only: [:new, :create, :update, :edit, :destroy]
   def show
-    @medicine = Medicie.find(params[:id])
+    @medicine = Medicine.find(params[:id])
   end
 
   def index
